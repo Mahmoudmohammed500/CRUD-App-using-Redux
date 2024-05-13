@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CRUD-App-using-Redux/static/css/main.2155b2dc.css",
+    "main.js": "/CRUD-App-using-Redux/static/js/main.96a68380.js",
+    "static/js/175.62252334.chunk.js": "/CRUD-App-using-Redux/static/js/175.62252334.chunk.js",
+    "static/js/365.ffc8c189.chunk.js": "/CRUD-App-using-Redux/static/js/365.ffc8c189.chunk.js",
+    "static/js/453.423543c3.chunk.js": "/CRUD-App-using-Redux/static/js/453.423543c3.chunk.js",
+    "index.html": "/CRUD-App-using-Redux/index.html",
+    "main.2155b2dc.css.map": "/CRUD-App-using-Redux/static/css/main.2155b2dc.css.map",
+    "main.96a68380.js.map": "/CRUD-App-using-Redux/static/js/main.96a68380.js.map",
+    "175.62252334.chunk.js.map": "/CRUD-App-using-Redux/static/js/175.62252334.chunk.js.map",
+    "365.ffc8c189.chunk.js.map": "/CRUD-App-using-Redux/static/js/365.ffc8c189.chunk.js.map",
+    "453.423543c3.chunk.js.map": "/CRUD-App-using-Redux/static/js/453.423543c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2155b2dc.css",
+    "static/js/main.96a68380.js"
+  ]
+}
